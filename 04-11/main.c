@@ -66,4 +66,22 @@ int main()
 
 
     
-}
+}idade * A = criarCidade(Uk’Thari, 3)
+Cidade * B = criarCidade(N’Kora, 5)
+Cidade * C = criarCidade(Kum’Rai, 9)
+Cidade * D = criarCidade(Jandala, 11)
+Cidade * E = criarCidade(Birnin Zana, 16)
+Cidade * F = criarCidade(Orujé, 18)
+Cidade * G = criarCidade(Mbatu, 21)
+Cidade * H = criarCidade(N’Bira, 23)
+Cidade * I = criarCidade(T’Kalu, 25)
+
+A->Proximo = B;
+B->Proximo = C;
+C->Proximo = D;
+D->Proximo = E;
+E->Proximo = F;
+F->Proximo = G;
+G->Proximo = H;
+H->Proximo = i;
+I->Proximo = NULL;
